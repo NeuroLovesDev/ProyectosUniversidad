@@ -30,6 +30,8 @@
 (display "Ingrese resultado de estado psicologico (bueno/regular/malo): ")
 (define epsicologico (read))
 
+;mostrar el mensaje
+
 (newline)
 
 ((aptitud edad genero efisico epsicologico))
